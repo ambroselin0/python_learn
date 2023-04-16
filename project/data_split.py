@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.metrics import mean_squared_error, mean_absolute_error, mean_absolute_percentage_error
 from sklearn.preprocessing import OneHotEncoder
+import numpy as np
 
 def data_split_generator(data):
     train_start_date = pd.to_datetime('1749-01-31')
