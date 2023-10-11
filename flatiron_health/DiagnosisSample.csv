@@ -1,0 +1,46 @@
+PatientID,DiagnosisDate,DiagnosisCode,Diagnosis,IsCancerDiagnosis
+2038,2010-01-21,174.9,"Breast Cancer",True
+2120,2010-01-09,174.1,"Breast Cancer",True
+2175,2010-02-17,174.7,"Breast Cancer",True
+2407,2010-06-13,174.9,"Breast Cancer",True
+2425,2010-12-15,174.9,"Breast Cancer",True
+2462,2011-01-07,174.9,"Breast Cancer",True
+2634,2011-02-19,285.8,Anemia,False
+2763,2011-04-19,174.1,"Breast Cancer",True
+2770,2011-04-16,153.9,"Colon Cancer",True
+3095,2011-07-10,153.3,"Colon Cancer",True
+3449,2011-09-09,153.5,"Colon Cancer",True
+3757,2011-10-17,153.4,"Colon Cancer",True
+3757,2011-10-11,174.1,"Breast Cancer",True
+3948,2011-12-18,174.6,"Breast Cancer",True
+4256,2011-11-07,174.5,"Breast Cancer",True
+4354,2012-02-04,174.8,"Breast Cancer",True
+4374,2012-03-20,174.5,"Breast Cancer",True
+4692,2012-04-27,174.8,"Breast Cancer",True
+5259,2012-05-13,174.3,"Breast Cancer",True
+5657,2012-06-07,285.8,Anemia,False
+6281,2012-08-12,174.4,"Breast Cancer",True
+6321,2012-09-06,174.2,"Breast Cancer",True
+6837,2012-10-20,153.3,"Colon Cancer",True
+6840,2012-11-15,285.9,Anemia,False
+6877,2012-11-26,153.4,"Colon Cancer",True
+6889,2012-11-14,401.9,"Hypertension ",False
+6922,2012-11-15,153.6,"Colon Cancer",True
+7230,2013-01-02,153.8,"Colon Cancer",True
+7242,2013-01-17,153.5,"Colon Cancer",True
+7796,2013-01-16,174.9,"Breast Cancer",True
+7937,2013-01-06,285.8,Anemia,False
+7976,2013-03-06,174.1,"Breast Cancer",True
+8615,2013-07-18,284.9,Anemia,False
+8827,2013-07-21,401.1,Hypertension,False
+9331,2013-08-23,174.9,"Breast Cancer",True
+3449,2011-09-09,153.4,"Colon Cancer",True
+3757,2011-10-17,153.5,"Colon Cancer",True
+4256,2011-11-07,401.9,Hypertension,False
+4354,2012-02-04,284.9,Anemia,False
+4374,2012-03-20,174.8,"Breast Cancer",True
+6877,2012-12-09,174.3,"Breast Cancer",True
+6889,2012-11-17,174.7,"Breast Cancer",True
+6922,2012-11-20,401.9,Hypertension,False
+6922,2012-11-01,285.9,Anemia,False
+7230,2013-01-06,285.8,Anemia,False
